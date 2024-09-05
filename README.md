@@ -1,0 +1,1 @@
+# Automatic-Number-Plate-Recognition-from-Video-using-YOLOv8n-and-EasyOCR
